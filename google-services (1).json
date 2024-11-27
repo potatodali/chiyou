@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917647567038",
+    "project_id": "chiyou-android",
+    "storage_bucket": "chiyou-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917647567038:android:3b83b5dc490c1e1b8b16ef",
+        "android_client_info": {
+          "package_name": "com.example.chiyou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxnVLf286gqyvUkb2-fZAeqI59kEJ8jns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
